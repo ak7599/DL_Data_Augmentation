@@ -1,0 +1,2 @@
+# DL_Data_Augmentation
+When we don't have enough training samples to cover diverse cases in image classification, often CNN might overfit. To address this we use a technique called data augmentation in deep learning. Data augmentation is used to generate new training samples from current training set using various transformations such as scaling, rotation, contrast change etc. In this video, we will classify flower images and see how our cnn model overfits. After that we will use data augmentation to generate new training samples and see how model performance improves.
